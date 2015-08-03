@@ -77,6 +77,13 @@ pada file test anda, sample locust file akan test halaman depan website saja
 untuk lebih custom bisa di lihat di documentasi resminya atau request nanti
 akan saya buatkan.
 
+```
+akses locust anda dengan membuka browser dengan port 8089.
+1. open firefox
+2. masukkan ip / dns server docker anda dengan port 8089. 
+Sample http://128.199.245.181:8089
+Sample http://awan.google.docker:8089
+```
 
 
 ### standalone
