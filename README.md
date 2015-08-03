@@ -70,6 +70,14 @@ $ sudo docker run -p 8089:8089 -e LOCUST_MODE=standalone -e TARGET_URL=http://ww
 ```
 
 
+# Step 5
+
+folder test akan di mount kedalam docker, jadi anda dapat melakukan perubahan
+pada file test anda, sample locust file akan test halaman depan website saja
+untuk lebih custom bisa di lihat di documentasi resminya atau request nanti
+akan saya buatkan.
+
+
 
 ### standalone
 
