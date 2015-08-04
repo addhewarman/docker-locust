@@ -3,8 +3,8 @@
 Docker base image for locust master/slave/standalone.
 
 ## Step by Step Cara Kerja Locust Test Dibawah Docker
-## Email : addhe.warman@gmail.com
-## Slack : https://docker-locustio-indo.slack.com/messages/@slackbot/
+Email : addhe.warman@gmail.com
+Slack : https://docker-locustio-indo.slack.com/messages/@slackbot/
 
 Saya akan jelaskan sedetail mungkin, kalau ada yang kurang detail dan bila ada
 yang butuh bantuan kindly email or slack me
